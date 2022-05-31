@@ -47,6 +47,13 @@
       "subtitle":"Reprensión",
       "description":"Es unos de los peores dps actualmente, aunque gracias a su utilidad logra escalar algún puesto su daño sigue siendo bajo y poco consistente, pero esto no significa que no se pueda jugar, simplemente no vas a hacer tanto daño como otros personajes del juego.",
       "image_url":"https://static.wikia.nocookie.net/es_wowpedia/images/c/ce/Vindicator_Maraad_LoW.jpg/revision/latest?cb=20140927091544"
+    },
+    {
+      "id":3,
+      "title":"Cazador de demonios",
+      "subtitle":"Venganza",
+      "description":"Es un tanque muy versátil con mucha movilidad muy buena utilidad gracias a sus sigilos que pueden silenciar, aturdir ralentizar en masa, posee muy buenos cd defensivos, aunque es algo débil sin ellos, definitivamente es un muy buen tanque, incluso sin tener tanto daño como otros.",
+      "image_url":"https://wow.zamimg.com/uploads/screenshots/normal/912747-se-busca-el-cazador-de-demonios.jpg"
       }
   ]
 }
