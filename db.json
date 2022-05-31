@@ -54,6 +54,13 @@
       "subtitle":"Venganza",
       "description":"Es un tanque muy versátil con mucha movilidad muy buena utilidad gracias a sus sigilos que pueden silenciar, aturdir ralentizar en masa, posee muy buenos cd defensivos, aunque es algo débil sin ellos, definitivamente es un muy buen tanque, incluso sin tener tanto daño como otros.",
       "image_url":"https://wow.zamimg.com/uploads/screenshots/normal/912747-se-busca-el-cazador-de-demonios.jpg"
-      }
+    },
+    {
+      "id":4,
+      "title":"Druida",
+      "subtitle":"Equilibrio",
+      "description":"Tiene muy poco daño de área, pero brilla mucho en daño a un objetivo pues es considerado uno de los mejores dps a un objetivo, aunque tiene que esperar mucho tiempo para volver a hacer daño debido al tiempo de reutilización de sus habilidades y su estilo de juego por lo que es bastante pésimo dps para mazmorras. ",
+      "image_url":"https://www.global-esports.news/wp-content/uploads/2020/12/wow-druide.jpg"
+    }
   ]
 }
