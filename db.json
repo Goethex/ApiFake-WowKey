@@ -1,16 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
   "Mitica": [
     {
       "id": 1,
       "title": "Guerrero",
       "subtitle": "Protección",
-      "description": "El guerrero protección es actualmente uno de los tanques más débiles en todos los ámbitos sin embargo esto no significa que sea jugable, si bien es verdad que comparado con los demás tanques sufre mucho por su poca mitigación de daño mágico y teniendo que sacrificar daño por aguante y viceversa.\n\nTalentos:\nEn el nivel 15 [devastadora] aumentara un poco el daño de nuestros golpes.\nEn el nivel 25 elegiremos [doble carga] si lo utilizamos bien durante un pull podremos generar bastante ira.\nEn el nivel 30 [voz retumbante] aumentará el daño significativamente a todos los enemigos y generará 4o de ira lo cual nos permitirá iniciar el combate de manera tranquila.\nEn el nivel 35 [trueno crepitante] nos permitirá ralentizar a todos los enemigos permitiéndonos huir si es necesario para poder curarnos sin estar recibiendo tanto daño.",
+      "description": "El guerrero protección es actualmente uno de los tanques más débiles en todos los ámbitos sin embargo esto no significa que sea jugable, si bien es verdad que comparado con los demás tanques sufre mucho por su poca mitigación de daño mágico y teniendo que sacrificar daño por aguante y viceversa.",
       "image_url": "https://altertime.es/resources/VbYKjnZe",
       "trailer_url": "https://www.youtube.com/watch?v=xjsxnOf0rRg&t=1s&ab_channel=WorldofWarcraftES"
     },
@@ -18,7 +12,7 @@
       "id": 2,
       "title": "Guerrero",
       "subtitle": "Furia",
-      "description": "El guerrero furia utiliza 2 armas de 2 manos, esto le permite obtener más estadísticas que las otras especializaciones, esto junto con la habilidad [sed de sangre] que le permite robar vida a sus enemigos lo convierte en una de las especializaciones con más auto sustento del juego, el estilo de juego del guerrero furia es muy rápido en otras palabras no vas a parar de oprimir botones.\n\nTalentos:\nEn el nivel 15 escogeremos [carne fresca] que nos dará mucho más tiempo en activo a nuestra pasiva [enfurecer] por lo que seremos capaces de realizar mucho más daño en área en un periodo de tiempo medio.\nEn el nivel 25 escogeremos [doble carga] ya que nos dará un poco mas de movilidad o bien [descarga tormentosa] si necesitamos aturdir a algún objetivo que nos esté causando problemas.\nEn el nivel 30 escogeremos [masacre] es te talento nos permitirá utilizar [ejecutar] sobre enemigos con un 35% de vida lo cual nos dará un incremento significativo en nuestro daño y en la generación de furia.\nEn el nivel 35 escogeremos [pinturas de guerra] gracias a [carne fresca] estaremos casi siempre enfurecidos mientras estemos en combate por lo que este talento se vuelve una muy buena opción para mitigar daño.",
+      "description": "El guerrero furia utiliza 2 armas de 2 manos, esto le permite obtener más estadísticas que las otras especializaciones, esto junto con la habilidad [sed de sangre] que le permite robar vida a sus enemigos lo convierte en una de las especializaciones con más auto sustento del juego, el estilo de juego del guerrero furia es muy rápido en otras palabras no vas a parar de oprimir botones.",
       "image_url": "https://bnetcmsus-a.akamaihd.net/cms/gallery/I12NP2YGNHON1378517224320.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=xjsxnOf0rRg&t=1s&ab_channel=WorldofWarcraftES"
     },
@@ -26,47 +20,33 @@
       "id": 3,
       "title": "Guerrero",
       "subtitle": "Armas",
-      "description": "El guerrero armas puede realizar un gran daño tanto a un objetivo como a varios por lo que lo hace bastante versátil en una mazmorra ya que no perderá daño en ninguna ocasión sin embargo habrá que saber gestionar sus habilidades más pesadas para no quedarse sin daño en todo momento.\n\nTalentos:\nEn el nivel 15 optaremos por [muerte súbita] que nos permitirá de vez en cuando utilizar [ejecutar] en cualquier objetivo otorgándonos gran cantidad de daño tanto en uno como varios objetivos.\nEn el nivel 25 elegiremos [descarga tormentosa] ya que nos dará un aturdimiento que cuadra perfecto con nuestras habilidades.\nEn el nivel 30 elegiremos [desgarrar] causa un muy buen daño tanto en daño a un objetivo como daño de área si es usado correctamente y nos permite aligerar la rotación cuando estamos sobre generando furia.\nEn el nivel 35 [actitud defensiva] será nuestra habilidad principal de mitigación de daño, además la podremos activar en cualquier momento y es instantánea.",
+      "description": "El guerrero armas puede realizar un gran daño tanto a un objetivo como a varios por lo que lo hace bastante versátil en una mazmorra ya que no perderá daño en ninguna ocasión sin embargo habrá que saber gestionar sus habilidades más pesadas para no quedarse sin daño en todo momento.",
       "image_url": "https://paragamersesport.com/wp-content/uploads/2020/11/guerrero-1024x572.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=xjsxnOf0rRg&t=1s&ab_channel=WorldofWarcraftES"
     },
     {
       "id": 4,
-      "title": "sadfasdfsadf",
-      "subtitle": "una oscura cueva",
-      "description": "en esta cueva encontramos cosas inimaginables",
-      "image_url": "https://static.13.cl/7/sites/default/files/esports/articulos/field-image/portadawowconsolas.jpg",
+      "title": "Paladín",
+      "subtitle": "Protección",
+      "description": "Es uno de los mejores tanques para realizar sanación a tus aliados ya que el mismo puede sostenerse por si solo mientras cura a los demás incluso sin llegar a perder daño, es muy útil gracias a su kit de habilidades es inmune a inmovilizaciones otorga mejoras grupales tiene una inmunidad, aturdimientos etc.",
+      "image_url": "https://i.pinimg.com/originals/a2/9e/6b/a29e6b50747fdf6850198fffc790e56e.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=xjsxnOf0rRg&t=1s&ab_channel=WorldofWarcraftES"
     }
   ],
   "JcJ": [
     {
       "id":1,
-      "title":"Darth Vader",
-      "subtitle":"Anakin Skywalker",
-      "description":"Darth Vader, nascido como Anakin Skywalker, é um dos personagens centrais da série de filmes Star Wars (Guerra nas Estrelas), tendo sido um dos protagonistas, juntamente com Obi-Wan Kenobi, da trilogia prequel (mas se tornando o vilão secundário no terceiro filme após a morte do General Grievous), um dos antagonistas principais da trilogia original ao lado do Imperador Palpatine (porém acaba se redimindo no final), e um anti-herói póstumo na trilogia de sequência, sendo que suas ações ainda afetam o universo de Star Wars, sendo para o bem ou para o mal, principalmente quando se trata de seu neto, Ben Solo, o Kylo Ren, que tem por Vader uma admiração cega, e deseja mais do que tudo ser como ele (e até superá-lo). [1][2][3]. Vader participou de seis episódios (A Ameaça Fantasma, Ataque dos Clones, A Vingança dos Sith, Uma Nova Esperança, O Império Contra-Ataca e O Retorno de Jedi) [4][5] e também participou do spin-off Rogue One, além de ser constantemente citado em O Despertar da Força, Os Últimos Jedi e em A Ascenção Skywalker. Suas principais características são a armadura preta e a ruidosa respiração mecânica. É constantemente citado na cultura pop como um dos personagens mais icônicos de todos os tempos. É um dos poucos personagens da saga que estiveram presentes e tiveram ao menos uma menção em todos os 9 episódios lançados até hoje.",
-      "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/SWCE_-_EuroVader_%28801375039%29.jpg/200px-SWCE_-_EuroVader_%28801375039%29.jpg"
+      "title":"Paladín",
+      "subtitle":"Sagrado",
+      "description":"Es un helear algo complicado de utilizar ya que hay que decidir el momento perfecto para hacer daño y curar, ya que si bien sus habilidades curan mucho al instante un paso en falso y te quedaras sin recursos para curar a tus aliados, aun con esto es uno de los mejores healers actualmente gracias a su gran dalo y curación además de contar con la utilidad del paladín.",
+      "image_url":"https://noticiasgamer.com/wp-content/uploads/2020/08/paladin-1024x578.jpg"
     },
     {
       "id":2,
-      "title":"Yoda",
-      "subtitle":"Mestre Jedi",
-      "description":"Medindo 76 centímetros de altura, Yoda é um membro de uma espécie de nome desconhecido. Ele foi o Grão Mestre da Ordem Jedi durante as Guerras Clônicas, um dos membros mais importantes do Alto Conselho Jedi nos últimos dias da República Galáctica, e um dos mais sábios e poderosos Jedi de todos os tempos. Tendo vivido por muito tempo (veio a falecer com aprox. 900 anos de idade), ele tinha excepcionais habilidades no combate de sabre de luz, onde usava as técnicas acrobáticas da Forma IV, além de um fenomenal conhecimento sobre a Força. De 300 ABY até 19 ABY ele treinou quase todos os Jedi da Galáxia — como Grande Mestre, ele instruia todos os Younglings do Templo Jedi antes deles serem adotados por um mestre, tendo Anakin Skywalker sido uma exceção quanto a isso. O estudante mais importante de Yoda foi Luke Skywalker, o qual Yoda treinou para ser o futuro da Ordem após a sua quase completa destruição após a execução da Ordem 66. Tendo treinado o primeiro membro da Nova Ordem Jedi, Yoda serviu como canal entre as duas ordens, preservando a chama Jedi para uma próxima geração.",
-      "image_url":"https://upload.wikimedia.org/wikipedia/pt/thumb/4/45/Yoda.jpg/200px-Yoda.jpg"
-      },
-      {
-        "id":3,
-        "title":"Luke Skywalker",
-        "subtitle":"Mestre Jedi",
-        "description":"Luke Skywalker é o protagonista da trilogia original da série Star Wars, faz participação em Star Wars: O Despertar da Força em Star Wars: Os Últimos Jedi. É interpretado pelo ator norte-americano Mark Hamill. Um personagem essencial e importante na luta da Aliança Rebelde contra o Império Galáctico, é o irmão gêmeo da líder rebelde Princesa Leia Organa de Alderaan, foi amigo do mercenário Han Solo, aprendiz do Mestre Jedi yoda mestre yoda, e o filho do Jedi caído Darth Vader (Anakin Skywalker) e da Rainha de Naboo/Senadora da República Padmé Amidala. Ele é o tio e antigo mestre de Kylo Ren, antes deste ter se convertido ao Lado Negro da Força. Em 2008, o personagem foi escolhido pela revista Empire como o 54º maior personagem de filmes de todos os tempos.[1] Em sua lista dos 100 Maiores Personagens de Ficção, a Fandomania.com classificou Luke na 14ª posição.[2]",
-        "image_url":"https://upload.wikimedia.org/wikipedia/pt/thumb/c/cf/LukeTatooine.jpg/200px-LukeTatooine.jpg"
-        },
-        {
-          "id":4,
-          "title":"Chewbacca",
-          "subtitle":"Chewie",
-          "description":"O Chewbacca é um republicano em A Vingança dos Sith, e um rebelde a partir de Uma Nova Esperança. Chewbacca nasceu em Kashyyyk 200 anos antes da Batalha de Yavin. Junto com outros wookiees ele combateu as forças de Palpatine (Darth Sidious) e do Império Galáctico, sendo o único sobrevivente de uma missão para salvar filhotes Wookiees de escravistas. Libertado por Han Solo, torna-se seu amigo, pois, segundo a cultura Wookiee, ele tem um débito de vida com aquele que o salvou.[2] Chewbacca é casado com Mallatobuck e a tradição permite que ele se ausente do lar para cumprir sua dívida de honra. Ele e Han Solo se tornam contrabandistas a serviço dos Hutts. Chewie acompanha todas as aventuras e influencia o amigo a ajudar a Aliança Rebelde. Grande mecânico, esse wookie usa tal habilidade para resolver diversos problemas da nave Millennium Falcon, e em O Império Contra-Ataca, Chewbacca remonta C-3PO e quando ele é destruído pelos soldados imperiais na Cidade das Nuvens, em Bespin. Seu instinto animal também o colocou numa encrenca na lua florestal de Endor em O Retorno de Jedi, quando fareja uma presa (que na verdade era uma armadilha feita por Ewoks). Além de sua força natural e de suas garras retráteis, ele usa como arma principal sua besta a laser. Chewbacca é um jogador de xadrez dejarik holográfico muito temperamental, e seus adversários correm o risco de ter os braços arrancados durante a partida, se Chewie estiver perdendo.",
-          "image_url":"https://static.wikia.nocookie.net/ptstarwars/images/7/7f/ChewbaccaTFAHS-Fathead.png/revision/latest/top-crop/width/360/height/450?cb=20151218200951"
-        }
+      "title":"Paladín",
+      "subtitle":"Reprensión",
+      "description":"Es unos de los peores dps actualmente, aunque gracias a su utilidad logra escalar algún puesto su daño sigue siendo bajo y poco consistente, pero esto no significa que no se pueda jugar, simplemente no vas a hacer tanto daño como otros personajes del juego.",
+      "image_url":"https://static.wikia.nocookie.net/es_wowpedia/images/c/ce/Vindicator_Maraad_LoW.jpg/revision/latest?cb=20140927091544"
+      }
   ]
 }
