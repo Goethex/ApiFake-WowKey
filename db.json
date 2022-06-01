@@ -31,6 +31,14 @@
       "description": "Es uno de los mejores tanques para realizar sanación a tus aliados ya que el mismo puede sostenerse por si solo mientras cura a los demás incluso sin llegar a perder daño, es muy útil gracias a su kit de habilidades es inmune a inmovilizaciones otorga mejoras grupales tiene una inmunidad, aturdimientos etc.",
       "image_url": "https://i.pinimg.com/originals/a2/9e/6b/a29e6b50747fdf6850198fffc790e56e.jpg",
       "trailer_url": "https://www.youtube.com/watch?v=xjsxnOf0rRg&t=1s&ab_channel=WorldofWarcraftES"
+    },
+    {
+      "id": 5,
+      "title": "Sacerdote",
+      "subtitle": "Disciplina",
+      "description": "Es un muy buen healer para prevenir y curar daño rápidamente, su kit requiere hacer daño para curar por lo que a veces puede ser difícil de usar y aun así no tiene un gran daño de igual forma sus reducciones de daño escudos y muy buenas curaciones en área le hacen un healer muy sólido.",
+      "image_url": "https://noticiasgamer.com/wp-content/uploads/2020/08/sacerdote-1-scaled.jpg",
+      "trailer_url": "https://www.youtube.com/watch?v=xjsxnOf0rRg&t=1s&ab_channel=WorldofWarcraftES"
     }
   ],
   "JcJ": [
@@ -61,6 +69,13 @@
       "subtitle":"Equilibrio",
       "description":"Tiene muy poco daño de área, pero brilla mucho en daño a un objetivo pues es considerado uno de los mejores dps a un objetivo, aunque tiene que esperar mucho tiempo para volver a hacer daño debido al tiempo de reutilización de sus habilidades y su estilo de juego por lo que es bastante pésimo dps para mazmorras. ",
       "image_url":"https://www.global-esports.news/wp-content/uploads/2020/12/wow-druide.jpg"
+    },
+    {
+      "id":5,
+      "title":"Mago",
+      "subtitle":"Arcano",
+      "description":"Es una de las clases con más daño explosivo del juego, tanto a uno como a varios objetivos, tiene muy buena utilidad, supervivencia y movilidad, aunque su daño sostenido es bastante pobre en daño en área su daño a un objetivo es bastante bueno.",
+      "image_url":"https://altertime.es/resources/RAMDJwb4"
     }
   ]
 }
